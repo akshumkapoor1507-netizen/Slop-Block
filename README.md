@@ -19,18 +19,6 @@ JavaScript (ES6+)
 HTML5 & CSS3
 
 Chrome Extension API (Manifest V3)
-
-(Add any specific APIs or libraries you are using for the filtering logic here)
-
-🚀 Installation (Developer Mode)
-Clone this repository: git clone https://github.com/yourusername/slop-block.git
-
-Open your Chromium-based browser and navigate to chrome://extensions/.
-
-Enable Developer mode in the top right corner.
-
-Click Load unpacked and select the slop-block directory.
-
 The extension should now be visible in your toolbar!
 
 🤝 Contributing
