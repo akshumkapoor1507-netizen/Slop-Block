@@ -36,6 +36,9 @@ class ImageRequest(BaseModel):
     no_spam: bool = False
     no_fakes: bool = False
 
+@app.get("/health")
+@app.post("/analyze/image")
+@app.post("/analyze/text")
 
 @app.post("/scan")
 async def scan_image(request: ImageRequest):
